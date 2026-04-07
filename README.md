@@ -49,4 +49,4 @@ pip install -r requirements.txt
 
 The full analysis can be viewed here:
 
-[View Notebook](notebooks/ny_mental_health_analysis.ipynb)
+[View Notebook](notebooks/portfolio_project_CH.ipynb)
