@@ -24,9 +24,8 @@ The analysis highlights disparities in spending and identifies areas where fundi
 ---
 
 <p align="center">
-  <img src="images/spending_trends.png" width="600"/>
+  <img src="images/spending_trends.png"/>
 </p>
-
 ---
 
 ## Tools & Technologies
