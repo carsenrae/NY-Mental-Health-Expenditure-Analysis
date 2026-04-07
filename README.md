@@ -16,6 +16,7 @@ The analysis highlights disparities in spending and identifies areas where fundi
 ## Visualizations
 
 ### County-Level Expenditure Map
+*Note: The interactive map does not render on GitHub. A static version is shown below.*
 <p align="center">
   <img src="images/ny_expenditure_map.png" width="600"/>
 </p>
