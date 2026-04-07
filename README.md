@@ -15,19 +15,17 @@ The analysis highlights disparities in spending and identifies areas where fundi
 
 ## Visualizations
 
+### County-Level Expenditure Map
 <p align="center">
   <img src="images/ny_expenditure_map.png" width="600"/>
 </p>
-
 *Figure 1: County-level mental health expenditure across New York State*
 
----
-
+### Spending Trends Over Time
 <p align="center">
   <img src="images/spending_trend.png" width="600"/>
 </p>
-
-*Figure 2: New York State mental health overall spending over 2006-2016*
+*Figure 2: Mental health spending trends in New York (2006–2016)*
 
 ---
 
