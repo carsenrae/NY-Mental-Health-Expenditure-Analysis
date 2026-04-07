@@ -24,8 +24,10 @@ The analysis highlights disparities in spending and identifies areas where fundi
 ---
 
 <p align="center">
-  <img src="images/spending_trends.png"/>
+  <img src="images/spending_trends.png" width="600"/>
 </p>
+
+*Figure 2: New York state overall spending for mental health services 2006-2016*
 ---
 
 ## Tools & Technologies
