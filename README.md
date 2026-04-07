@@ -44,4 +44,10 @@ The analysis highlights disparities in spending and identifies areas where fundi
 pip install -r requirements.txt
 ```
 
+## Notebook
+
+The full analysis can be viewed here:
+
+[View Notebook](notebooks/ny_mental_health_analysis.ipynb)
+
 3. Open the notebook and run the cells in order
