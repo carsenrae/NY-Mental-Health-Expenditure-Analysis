@@ -44,7 +44,7 @@ The analysis highlights disparities in spending and identifies areas where fundi
 ```bash
 pip install -r requirements.txt
 ```
-3. The dataset is in /data
+3. The dataset is located in the `data/` folder and is loaded directly within the notebook
 4. Open the notebook and run the cells in order
 
 ## Notebook
