@@ -50,4 +50,4 @@ pip install -r requirements.txt
 
 The full analysis can be viewed here:
 
-[View Notebook](notebooks/portfolio_project_CH.ipynb)
+[View Notebook](notebooks/Portfolio_Project_CH.ipynb)
