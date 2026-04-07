@@ -30,9 +30,18 @@ The analysis highlights disparities in spending and identifies areas where fundi
 ---
 
 ## Tools & Technologies
-- Python (pandas, geopandas, folium, altair)  
+- Python (pandas, geopandas, folium, altair, matplotlib, numpy)  
 - Jupyter Notebook  
 
 ---
 
-## Project Structure
+## How to Run
+
+1. Clone this repository
+2. Install the required packages with:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Open the notebook and run the cells in order
